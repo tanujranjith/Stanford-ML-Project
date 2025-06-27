@@ -8,3 +8,22 @@
 
 
 ___
+
+# Project Description
+
+A machine learning project done as part of the Stanford Pre-Collegiate Intro to Machine Learning program, used the Adult Income dataset from the UC Irvine Machine Learning Repository to predict whether a person's income exceeds $50K/year. Did data cleaning, label encoding, exploratory data analysis, and feature preprocessing to prepare the dataset for model training. Models used were:
+
+Tuned AdaBoost
+ Gradient Boosting
+ XGBoost
+ AdaBoost
+ Tuned Gradient Boosting
+ Tuned Bagging Classifier
+ Random Forest
+ Bagging Classifier
+ Logistic Regression
+ Tuned Random Forest
+ Decision Tree
+ Tuned Decision Tree
+ Support Vector Machine
+
