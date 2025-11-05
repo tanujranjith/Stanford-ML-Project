@@ -1,11 +1,11 @@
-# 💼 Predicting Income Using Census Data
+# Predicting Income Using Census Data
 
 **Author:** Tanuj Ranjith
 **Program:** Stanford Pre-Collegiate Summer Institutes — Intro to Machine Learning
 
 ---
 
-## 🔍 How to View the Notebook
+## How to View the Notebook
 
 You can view the notebook in several ways:
 
@@ -14,11 +14,11 @@ You can view the notebook in several ways:
 
    * Download it and open locally in **Jupyter Notebook** or **VS Code**.
    * Or open it on **Google Colab** here:
-     👉 [Open in Google Colab](https://colab.research.google.com/drive/1D2gxvpAm6bbFq-KTIgBfaFN_Scq8rems#scrollTo=d3f54335-433e-4d6d-91b7-590775ace0b8)
+      [Open in Google Colab](https://colab.research.google.com/drive/1D2gxvpAm6bbFq-KTIgBfaFN_Scq8rems#scrollTo=d3f54335-433e-4d6d-91b7-590775ace0b8)
 
 ---
 
-## 🧠 Project Description
+## Project Description
 
 A machine-learning project completed as part of the **Stanford Pre-Collegiate Intro to Machine Learning** program.
 The goal was to predict whether a person’s income exceeds **$50K/year** using the **Adult Income dataset** from the **UCI Machine Learning Repository**.
@@ -31,7 +31,7 @@ Performed:
 
 ---
 
-## ⚙️ Models Used
+## Models Used
 
 * **Tuned AdaBoost**
 * **Gradient Boosting**
@@ -49,7 +49,7 @@ Performed:
 
 ---
 
-## 📊 Dataset Details
+## Dataset Details
 
 * **Source:** UCI Adult Census Dataset
 * **Records:** 48,842 | **Features:** 14
@@ -58,7 +58,7 @@ Performed:
 
 ---
 
-## 📈 Performance Overview
+## Performance Overview
 
 | Model               | Accuracy | Recall | Precision | F1        |
 | ------------------- | -------- | ------ | --------- | --------- |
@@ -72,14 +72,14 @@ Top predictors included **education**, **capital gain**, and **hours-per-week**.
 
 ---
 
-## 🧩 Libraries & Tools
+## Libraries & Tools
 
 Developed using **Python** with:
 `scikit-learn`, `pandas`, `numpy`, `matplotlib`, `seaborn`.
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 * Improve recall using deeper ensemble architectures or SMOTE balancing.
 * Add model explainability tools like **SHAP** or **LIME**.
@@ -87,7 +87,7 @@ Developed using **Python** with:
 
 ---
 
-## 📚 References
+## References
 
 * [UCI Machine Learning Repository — Adult Dataset](https://archive.ics.uci.edu/ml/datasets/adult)
 * [Scikit-learn Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html)
